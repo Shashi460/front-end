@@ -1,0 +1,98 @@
+body{
+  background-color:hsl(257, 40%, 49%);
+  background-size:918px 800px;
+}
+.main{
+
+  font-family:'Poppins', sans-serif;
+  position: relative;
+  bottom:810px;
+  left:80px;
+  font-size: 30px;
+  color: white;
+
+}
+.message{
+  position: relative;
+  bottom:750px;
+  left:40px;
+  height:30px;
+  border-color: white;
+}
+.illustration{
+  position: relative;
+  bottom: 750px;
+  left:35px;
+}
+.last-h2{
+  font-family: 'Open Sans', sans-serif;
+  width:25%;
+  color: white;
+  font-size:30px;
+  position:relative;
+  left: 800px;
+  bottom:1250px;
+
+
+}
+p{
+  width: 31%;
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+  position: relative;
+  left: 800px;
+  bottom:1250px;
+  line-height:2;
+
+}
+h3{
+
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  color: white;
+  position: relative;
+  left: 830px;
+  bottom:1220px;
+  border: 25px thick #555 ;
+  width:100px;
+  border-radius: 15px;
+  border-style: outset;
+  border-width:thin;
+  border-color: white;
+  background-size: 20px;
+  box-sizing: border-box;
+  background-color:white;
+  color:hsl(257, 40%, 49%);
+
+
+}
+.facebook{
+  height: 30px;
+  position: relative;
+  left: 1300px;
+  bottom: 1000px;
+  border: 5px thick #555 ;
+  border-radius: 15px;
+  background-color:hsl(257, 40%, 49%);
+
+}
+.twitter{
+  height: 30px;
+  position: relative;
+  left: 1320px;
+  bottom: 1000px;
+  border: 5px thick #555 ;
+  border-radius: 15px;
+  background-color:hsl(257, 40%, 49%);
+
+}
+.instagram{
+  height: 30px;
+  position: relative;
+  left: 1340px;
+  bottom: 1000px;
+  border: 5px thick #555 ;
+  border-radius: 15px;
+  background:hsl(257, 40%, 49%);
+
+}
